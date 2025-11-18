@@ -73,8 +73,8 @@ y_pred = model.predict(X_test)
 #Calculate accuracy and print classification metrics
 
 accuracy = accuracy_score(y_test, y_pred)
-print("Mena Rossini R")
-print("212222040099")
+print("NIXAN DASS A")
+print("212222040109")
 print("Accuracy:", accuracy)
 print("Classification Report:\n", classification_report(y_test, y_pred))
 
