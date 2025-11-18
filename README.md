@@ -94,7 +94,7 @@ plt.show()
 
 <img width="1355" height="357" alt="image" src="https://github.com/user-attachments/assets/cd93de18-0134-450b-b93a-e13ffb0c160b" />
 <img width="1354" height="94" alt="image" src="https://github.com/user-attachments/assets/355090fb-b826-4e89-b7d1-22f0c64199f6" />
-<img width="604" height="275" alt="image" src="https://github.com/user-attachments/assets/dbd573b2-c678-4b8d-9fb0-12bc7954af89" />
+<img width="1048" height="271" alt="image" src="https://github.com/user-attachments/assets/94017788-0e32-4a8f-8a9b-adb0b5ae69dd" />
 <img width="1375" height="573" alt="image" src="https://github.com/user-attachments/assets/df1d9d58-33d8-4b00-9284-90f8855f95cc" />
 
 
